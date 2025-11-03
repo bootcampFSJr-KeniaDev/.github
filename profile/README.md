@@ -49,5 +49,6 @@ La idea es fomentar un entorno de aprendizaje colaborativo, donde la comunidad p
 ---
 
 > ✨ *“El mejor código es aquel que enseña a otros a escribir mejor código.”*  
-> — Kenia
+> — Kenia Paiz
+
 
