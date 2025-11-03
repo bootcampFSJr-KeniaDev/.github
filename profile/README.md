@@ -1,4 +1,4 @@
-# 👩‍💻 bootcampFSJr-KeniaDev
+# 👩‍💻 Bootcamp FullStack Jr - Coach Kenia Paiz
 
 ¡Bienvenid@ al espacio de aprendizaje y práctica de **Desarrollo Fullstack Junior**! 🚀  
 Esta organización está dedicada a recopilar proyectos, ejercicios y prácticas creadas en el contexto del **Bootcamp Fullstack Junior**, bajo la guía de **Kenia**, coach y docente de desarrollo web.
@@ -34,16 +34,6 @@ La idea es fomentar un entorno de aprendizaje colaborativo, donde la comunidad p
 
 ---
 
-## 🗂️ Estructura sugerida
-| Tipo de repositorio | Descripción |
-|----------------------|-------------|
-| `frontend-*` | Proyectos y ejercicios del área frontend |
-| `backend-*` | Prácticas y proyectos de backend con PHP/Laravel |
-| `fullstack-*` | Proyectos integrales que combinan frontend y backend |
-| `recursos-*` | Material de apoyo, guías o plantillas útiles |
-
----
-
 ## 💬 Cómo participar
 1. **Explora los repositorios** y clona el que te interese.  
 2. **Haz tus aportes** mediante *pull requests*.  
@@ -53,10 +43,11 @@ La idea es fomentar un entorno de aprendizaje colaborativo, donde la comunidad p
 ---
 
 ## 🌐 Contacto
-📫 [GitHub](https://github.com/bootcampFSJr-KeniaDev)  
-💼 [Perfil profesional de Kenia](https://github.com/paizkenia5)
+📫 [Github de Trabajo](https://github.com/KeniaKodigo)  
+💼 [Github Personal](https://github.com/KenyaPaiz)
 
 ---
 
 > ✨ *“El mejor código es aquel que enseña a otros a escribir mejor código.”*  
 > — Kenia
+
